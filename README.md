@@ -1,0 +1,1 @@
+To run application open terminal in root directory of the project and type "docker compose up"
