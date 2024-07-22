@@ -1,8 +1,9 @@
 import React from 'react';
+import viewer from './components/viewer';
 
 function App () {
     return (
-        <div>Album</div>
+        <viewer />
     )
 }
 

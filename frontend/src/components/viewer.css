@@ -1,0 +1,10 @@
+.image-wrapper {
+    border-radius: 10%;
+
+    background-color: white;
+}
+
+.image-view {
+    width: 25vw;
+    height: 25vh;
+}
