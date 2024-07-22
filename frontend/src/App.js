@@ -1,9 +1,9 @@
 import React from 'react';
-import viewer from './components/viewer';
+import Content_Table from './components/Content_Table';
 
 function App () {
     return (
-        <viewer />
+        <Content_Table />
     )
 }
 

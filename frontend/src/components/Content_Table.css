@@ -1,0 +1,12 @@
+.content-table {
+    display: grid;
+    grid-template-columns: 1fr;
+
+    gap: 5px;
+
+    justify-content: center;
+    justify-items: center;
+    align-items: center;
+
+    margin: 0 auto;
+}

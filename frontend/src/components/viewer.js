@@ -1,7 +1,7 @@
 import React from 'react';
-import './viewer.css';
+import './Viewer.css';
 
-function viewer() {
+function Viewer() {
     return (
         <div className='image-wrapper'>
             <div className='image-view'></div>
@@ -9,4 +9,4 @@ function viewer() {
     )
 }
 
-export default viewer;
+export default Viewer;
