@@ -6,7 +6,6 @@ function Content_Table() {
     return (
         <div className='content-table'>
             <Viewer />
-            <Viewer />
         </div>
     )
 }
